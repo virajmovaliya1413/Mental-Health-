@@ -1,0 +1,6 @@
+.navbar-nav a:hover{
+	color: black !important;
+}
+.active{
+	color: brown !important;
+}
